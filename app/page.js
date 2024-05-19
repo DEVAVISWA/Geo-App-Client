@@ -1,8 +1,15 @@
+"use client"
+import FileUpload from '@/components/FileUpload';
+import Map from '@/components/Map';
 
-export default function Home() {
+const Home = () => {
   return (
     <div>
-      <h1>Initial setup</h1>
+      <h1>Geospatial Data Management</h1>
+      <FileUpload />
+      <Map />
     </div>
-  )
-}
+  );
+};
+
+export default Home;
