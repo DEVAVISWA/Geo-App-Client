@@ -1,0 +1,4 @@
+Dear Dfy Graviti team,
+I have not finished my task fully but you could judge me by the code flow  . next js is entirely new to me so i struggled a little bit to complete this project .
+I would like to thank you for this project as i learnt may new things in this project (eg:- mapbox, geojson..etc)
+Thanks have a great day
